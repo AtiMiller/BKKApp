@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "886783500084",
+    "firebase_url": "https://bkkapp-7da7e.firebaseio.com",
+    "project_id": "bkkapp-7da7e",
+    "storage_bucket": "bkkapp-7da7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886783500084:android:782091bfd792cf87a64f61",
+        "android_client_info": {
+          "package_name": "com.example.bkkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886783500084-bhu4u47pakq8ef85iknqpshvogt8p05o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bkkapp",
+            "certificate_hash": "897196fede043c60027776124719661829264fea"
+          }
+        },
+        {
+          "client_id": "886783500084-3vhsk4fd37ubura0pltjpuv8mfbu8bqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIDBUrgjlpm2rCuzk4CHbNK7TsrKB7Jbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886783500084-3vhsk4fd37ubura0pltjpuv8mfbu8bqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
